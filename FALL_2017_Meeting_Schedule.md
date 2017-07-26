@@ -2,10 +2,11 @@
 
 We'll settle in on a meeting day when we finalize our fall 2017 course, teaching, and research schedules.
 
-August 19th or 20th - Pre Semester Lab Gathering at Josh's House!
+August 20th - Pre-Semester Lab Gathering at Josh's House! It's also Erin's birthday!
 
 ** WEEK OF **|** ACTIVITY **|** LOCATION **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:
+August 20| Lab Party | Josh's House | Everybody
 August 21| Organizational Meeting| TBD| Josh
 August 28| OPEN| TBD| TBD
 September 4| OPEN| TBD| TBD
