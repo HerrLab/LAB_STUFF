@@ -20,8 +20,9 @@ October 23| OPEN| TBD| TBD
 October 30| OPEN| TBD| TBD
 November 6| OPEN| TBD| TBD
 November 13| OPEN| TBD| TBD
-November 20| Lab Thanksgiving gathering at Josh's House| TBD| Josh
-November 27|Plant Pathology Seminar | Plant Sciences | Karen 
+November 20| Karen Practice Talk | TBD | Karen
+November 23| Lab Thanksgiving gathering at Josh's House| TBD| Josh
+November 27| Plant Pathology Seminar | Plant Sciences Building | Karen
 December 4| OPEN| TBD| TBD
 December 11| OPEN| TBD| TBD
 December 18| OPEN| TBD| TBD
