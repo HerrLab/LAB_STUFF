@@ -13,7 +13,7 @@ Fill in which time you would like to meet with me weekly (you are all free durin
 10:30 am | Erin
 11:00 am |
 11:30 am |
-1:00 pm |
+1:00 pm |Thais
 1:30 pm |
 
 Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
@@ -36,7 +36,8 @@ September 21 | OPEN | TBD | TBD
 September 28 | OPEN | TBD | TBD
 October 5 | OPEN | TBD | TBD
 October 12 | OPEN | TBD | TBD
-October 19 | OPEN | TBD | TBD
+October 19 | Thais Practice Talk | TBD | Thais
+October 23 | Plant Pathology Seminar | Plant Sciences | Thais
 October 26 | OPEN | TBD | TBD
 November 2 | OPEN | TBD | TBD
 November 9 | OPEN | TBD | TBD
