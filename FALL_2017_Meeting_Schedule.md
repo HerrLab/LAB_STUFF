@@ -2,7 +2,7 @@
 
 [It looks like](http://whenisgood.net/akrkr3e/results/qkqsztz) everyone is free on Tuesday and Thursday in the morning, so we'll go from there.  I'm proposing the following meeting schedule:
 
-## _TUESDAYS_
+## __TUESDAYS__
 
 Fill in which time you would like to meet with me weekly (you are all free during all of these times, so it's first come first serve!) :
 
@@ -19,9 +19,9 @@ Fill in which time you would like to meet with me weekly (you are all free durin
 Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
 
 
-## _THURSDAYS_
+## __THURSDAYS__
 
-Lab meeting: PLANT SCIENCES conference room **(Room number: 406)**
+__Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) at 10 am.__
 
 This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
 
