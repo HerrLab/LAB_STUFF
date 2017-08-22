@@ -21,7 +21,7 @@ Meetings will eventually take place in my new office on East Campus (more on tha
 
 ## _THURSDAYS_
 
-Lab meeting: PLANT SCIENCES conference room **(Room number, anyone?)**
+Lab meeting: PLANT SCIENCES conference room **(Room number: 406)**
 
 This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
 
