@@ -1,26 +1,41 @@
 # This is a file to schedule weekly lab meetings and discussions
 
-We'll settle in on a meeting day when we finalize our fall 2017 course, teaching, and research schedules.
+[It looks like](http://whenisgood.net/akrkr3e/results/qkqsztz) everyone is free on Tuesday and Thursday in the morning, so we'll go from there.  I'm proposing the following meeting schedule:
+
+## TUESDAYS - Fill in which time you would like to meet with me weekly (you are all free during all of these times, so it's first come first serve!) :
+
+10:00 am -
+10:30 am -
+11:00 am -
+11:30 am -
+1:00 pm -
+1:30 pm -
+
+Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
+
+
+## THURSDAYS - Lab meeting: PLANT SCIENCES conference room **(Room number, anyone?)**
+
+This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
 
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:
 August 20 | Official Start of the Semester & Erin's Birthday Party | Josh's House | Everybody
-August 21 | Organizational Meeting and/or Eclipse Watching | TBD | Josh
-August 28 | More Organizational Meeting | TBD | Josh
-September 4 | OPEN | TBD | TBD
-September 11 | OPEN | TBD | TBD
-September 18 | OPEN | TBD | TBD
-September 25 | OPEN | TBD | TBD
-October 2 | OPEN | TBD | TBD
-October 9 | OPEN | TBD | TBD
-October 16 | OPEN | TBD | TBD
-October 23 | OPEN | TBD | TBD
-October 30 | OPEN | TBD | TBD
-November 6 | OPEN | TBD | TBD
-November 13 | OPEN | TBD | TBD
-November 20 | Karen Practice Talk | TBD | Karen
+August 24 | Organizational Meeting | TBD | Josh
+August 31 | More Organizational Meeting | TBD | Josh
+September 7 | OPEN | TBD | TBD
+September 14 | OPEN | TBD | TBD
+September 21 | OPEN | TBD | TBD
+September 28 | OPEN | TBD | TBD
+October 5 | OPEN | TBD | TBD
+October 12 | OPEN | TBD | TBD
+October 19 | OPEN | TBD | TBD
+October 26 | OPEN | TBD | TBD
+November 2 | OPEN | TBD | TBD
+November 9 | OPEN | TBD | TBD
+November 16 | Karen Practice Talk | TBD | Karen
 November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | Josh
 November 27 | Plant Pathology Seminar | Plant Sciences | Karen
-December 4 | OPEN | TBD | TBD
-December 11 | OPEN | TBD | TBD
-December 18 | OPEN | TBD | TBD
+November 30 | OPEN | TBD | TBD
+December 7 | OPEN | TBD | TBD
+December 14 | OPEN | TBD | TBD
