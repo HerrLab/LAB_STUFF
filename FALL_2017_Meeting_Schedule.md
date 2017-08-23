@@ -40,8 +40,8 @@ October 23 | Plant Pathology Seminar | Plant Sciences Classroom | Thais
 October 26 | OPEN | Plant Sciences Room 206 | TBD
 November 2 | OPEN | Plant Sciences Room 206 | TBD
 November 9 | OPEN | Plant Sciences Room 206 | TBD
-November 16 | Karen Practice Talk | Plant Sciences Room 206 | Karen
-November 20 | Plant Pathology Seminar | Plant Sciences Classroom | Karen
+November 6 | Karen Practice Talk | Plant Sciences Room 206 | Karen
+November 13 | Plant Pathology Seminar | Plant Sciences Classroom | Karen
 November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | Josh
 November 30 | OPEN | Plant Sciences Room 206 | TBD
 December 7 | OPEN | Plant Sciences Room 206 | TBD
