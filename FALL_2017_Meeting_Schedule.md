@@ -11,7 +11,7 @@ Fill in which time you would like to meet with me weekly (you are all free durin
 9:00 am | Josh (fill in your name below just like this)
 10:00 am | Timothy
 10:30 am | Erin
-11:00 am |
+11:00 am | Karen
 11:30 am | Eddie
 1:00 pm | Thais
 1:30 pm |
