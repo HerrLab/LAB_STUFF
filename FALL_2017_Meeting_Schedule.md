@@ -13,7 +13,7 @@ Fill in which time you would like to meet with me weekly (you are all free durin
 11:00 am | Karen
 11:30 am | Eddie
 1:00 pm | Thais
-1:30 pm | Ashley?
+1:30 pm | Ashley
 
 Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
 
