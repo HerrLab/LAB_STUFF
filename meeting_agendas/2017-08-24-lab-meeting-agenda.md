@@ -57,7 +57,7 @@ Tim's Projects - benchmarking!
 
 McIntire-Stennis - Green Ash Project
 
-DNA Study
+DNA Study - Premise: from each sampling, is that DNA from living or dead organism? How long DNA persists on soil? (relic DNA)
 
 Morel Mushroom Project: Pan-genome
 
