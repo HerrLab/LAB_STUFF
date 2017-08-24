@@ -59,6 +59,8 @@ McIntire-Stennis - Green Ash Project
 
 DNA Study
 
+Morel Mushroom Project: Pan-genome
+
 
 ## Managing Lab Things
 
