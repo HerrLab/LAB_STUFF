@@ -27,22 +27,22 @@ This will be formal presentations (or a journal club, waiting to hear back from 
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:
 ~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~Everybody~~
-August 24 | Organizational Meeting | Plant Sciences Room 206 | Josh
-August 31 | More Organizational Meeting | Plant Sciences Room 206 | Josh
-September 7 | OPEN | Plant Sciences Room 206 | TBD
-September 14 | OPEN | Plant Sciences Room 206 | TBD
-September 21 | OPEN | Plant Sciences Room 206 | TBD
-September 28 | OPEN | Plant Sciences Room 206 | TBD
-October 5 | OPEN | Plant Sciences Room 206 | TBD
-October 12 | OPEN | Plant Sciences Room 206 | TBD
-October 19 | Thais Practice Talk | Plant Sciences Room 206 | Thais
+August 24 | Organizational Meeting | Plant Sciences Room 406 | Josh
+August 31 | More Organizational Meeting | Plant Sciences Room 406 | Josh
+September 7 | OPEN | Plant Sciences Room 406 | TBD
+September 14 | OPEN | Plant Sciences Room 406 | TBD
+September 21 | OPEN | Plant Sciences Room 406 | TBD
+September 28 | OPEN | Plant Sciences Room 406 | TBD
+October 5 | OPEN | Plant Sciences Room 406 | TBD
+October 12 | OPEN | Plant Sciences Room 406 | TBD
+October 19 | Thais Practice Talk | Plant Sciences Room 406 | Thais
 October 23 | Plant Pathology Seminar | Plant Sciences Classroom | Thais
-October 26 | OPEN | Plant Sciences Room 206 | TBD
-November 2 | OPEN | Plant Sciences Room 206 | TBD
-November 9 | OPEN | Plant Sciences Room 206 | TBD
-November 6 | Karen Practice Talk | Plant Sciences Room 206 | Karen
+October 26 | OPEN | Plant Sciences Room 406 | TBD
+November 2 | OPEN | Plant Sciences Room 406 | TBD
+November 9 | OPEN | Plant Sciences Room 406 | TBD
+November 6 | Karen Practice Talk | Plant Sciences Room 406 | Karen
 November 13 | Plant Pathology Seminar | Plant Sciences Classroom | Karen
 November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | Josh
-November 30 | OPEN | Plant Sciences Room 206 | TBD
-December 7 | OPEN | Plant Sciences Room 206 | TBD
-December 14 | OPEN | Plant Sciences Room 206 | TBD
+November 30 | OPEN | Plant Sciences Room 406 | TBD
+December 7 | OPEN | Plant Sciences Room 406 | TBD
+December 14 | OPEN | Plant Sciences Room 406 | TBD
