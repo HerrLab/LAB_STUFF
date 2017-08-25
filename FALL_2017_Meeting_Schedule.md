@@ -36,12 +36,12 @@ September 28 | OPEN | Plant Sciences Room 406 | TBD
 October 5 | OPEN | Plant Sciences Room 406 | TBD
 October 12 | OPEN | Plant Sciences Room 406 | TBD
 October 19 | Thais Practice Talk | Plant Sciences Room 406 | Thais
-October 23 | Plant Pathology Seminar | 264 Keim Hall | Thais
+October 23 | Plant Pathology Seminar | Keim Hall Room 264 | Thais
 October 26 | OPEN | Plant Sciences Room 406 | TBD
 November 2 | OPEN | Plant Sciences Room 406 | TBD
 November 9 | OPEN | Plant Sciences Room 406 | TBD
 November 6 | Karen Practice Talk | Plant Sciences Room 406 | Karen
-November 13 | Plant Pathology Seminar | 264 Keim Hall | Karen
+November 13 | Plant Pathology Seminar | Keim Hall Room 264 | Karen
 November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | Josh
 November 30 | OPEN | Plant Sciences Room 406 | TBD
 December 7 | OPEN | Plant Sciences Room 406 | TBD
