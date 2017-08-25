@@ -27,7 +27,7 @@ This will be formal presentations (or a journal club, waiting to hear back from 
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:
 ~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~Everybody~~
-August 24 | Organizational Meeting | Plant Sciences Room 406 | Josh
+~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | ~~Josh~~
 August 31 | More Organizational Meeting | Plant Sciences Room 406 | Josh
 September 7 | OPEN | Plant Sciences Room 406 | TBD
 September 14 | OPEN | Plant Sciences Room 406 | TBD
