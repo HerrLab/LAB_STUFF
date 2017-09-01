@@ -1,4 +1,4 @@
-8 channel Pipetters - 
+8 channel Pipetters  
 Repeater M4 Eppendorf - https://online-shop.eppendorf.us/US-en/Manual-Liquid-Handling-44563/Dispensers--Burettes-44566/Repeater-M4-PF-44619.html
 
 Ethanol 70%
