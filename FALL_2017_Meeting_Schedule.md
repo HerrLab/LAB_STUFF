@@ -28,8 +28,9 @@ This will be formal presentations (or a journal club, waiting to hear back from 
 :-----:|:-----:|:-----:|:-----:
 ~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~Everybody~~
 ~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | ~~Josh~~
-August 31 | More Organizational Meeting | Plant Sciences Room 406 | Josh
-September 7 | OPEN | Plant Sciences Room 406 | TBD
+~~August 31~~ | ~~CANCELLED~~ | ~~Plant Sciences Room 406~~ | ~~Josh~~
+September 7 | Ashley Gut Group Practice Talk | Plant Sciences Room 406 | Ashley
+September 8 | Ashley Gut Group Talk | Food Science Room TBD | Ashley
 September 14 | OPEN | Plant Sciences Room 406 | TBD
 September 21 | OPEN | Plant Sciences Room 406 | TBD
 September 28 | OPEN | Plant Sciences Room 406 | TBD
