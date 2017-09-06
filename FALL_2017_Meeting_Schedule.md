@@ -24,7 +24,7 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 
 This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
 
-** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** PRESENTER **
+** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | 6 pm | ~~Everybody~~
 ~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | 10 am | ~~Josh~~
