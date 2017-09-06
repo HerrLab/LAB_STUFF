@@ -26,9 +26,9 @@ This will be formal presentations (or a journal club, waiting to hear back from 
 
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
-~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | 6 pm | ~~Everybody~~
-~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | 10 am | ~~Josh~~
-~~August 31~~ | ~~CANCELLED~~ | ~~Plant Sciences Room 406~~ | 10 am | ~~Josh~~
+~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~6 pm~~ | ~~Everybody~~
+~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
+~~August 31~~ | ~~CANCELLED~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
 September 7 | Ashley Gut Group Practice Talk | Plant Sciences Room 406 | 10 am | Ashley
 September 8 | Ashley Gut Group Talk | Food Science Building FIC 220 | Noon | Ashley
 September 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
