@@ -25,25 +25,25 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
 
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** PRESENTER **
-:-----:|:-----:|:-----:|:-----:
-~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~Everybody~~
-~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | ~~Josh~~
-~~August 31~~ | ~~CANCELLED~~ | ~~Plant Sciences Room 406~~ | ~~Josh~~
-September 7 | Ashley Gut Group Practice Talk | Plant Sciences Room 406 | Ashley
-September 8 | Ashley Gut Group Talk | Food Science Room TBD | Ashley
-September 14 | OPEN | Plant Sciences Room 406 | TBD
-September 21 | OPEN | Plant Sciences Room 406 | TBD
-September 28 | OPEN | Plant Sciences Room 406 | TBD
-October 5 | OPEN | Plant Sciences Room 406 | TBD
-October 12 | OPEN | Plant Sciences Room 406 | TBD
-October 19 | Thais Practice Talk | Plant Sciences Room 406 | Thais
-October 23 | Plant Pathology Seminar | Keim Hall Room 264 | Thais
-October 26 | OPEN | Plant Sciences Room 406 | TBD
-November 2 | OPEN | Plant Sciences Room 406 | TBD
-November 9 | OPEN | Plant Sciences Room 406 | TBD
-November 6 | Karen Practice Talk | Plant Sciences Room 406 | Karen
-November 13 | Plant Pathology Seminar | Keim Hall Room 264 | Karen
-November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | Josh
-November 30 | OPEN | Plant Sciences Room 406 | TBD
-December 7 | OPEN | Plant Sciences Room 406 | TBD
-December 14 | OPEN | Plant Sciences Room 406 | TBD
+:-----:|:-----:|:-----:|:-----:|:-----:
+~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | 6 pm | ~~Everybody~~
+~~August 24~~ | ~~Organizational Meeting~~ | ~~Plant Sciences Room 406~~ | 10 am | ~~Josh~~
+~~August 31~~ | ~~CANCELLED~~ | ~~Plant Sciences Room 406~~ | 10 am | ~~Josh~~
+September 7 | Ashley Gut Group Practice Talk | Plant Sciences Room 406 | 10 am | Ashley
+September 8 | Ashley Gut Group Talk | Food Science Building FIC 220 | Noon | Ashley
+September 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+September 21 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+September 28 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+October 5 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+October 12 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+October 19 | Thais Practice Talk | Plant Sciences Room 406 | 10 am |  Thais
+October 23 | Plant Pathology Seminar | Keim Hall Room 264 | 4 pm | Thais
+October 26 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+November 2 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+November 9 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+November 6 | Karen Practice Talk | Plant Sciences Room 406 | 10 am |  Karen
+November 13 | Plant Pathology Seminar | Keim Hall Room 264 | 4 pm |  Karen
+November 23 | Lab Thanksgiving gathering at Josh's House | Josh's House | All Day? |  Josh
+November 30 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+December 7 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+December 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
