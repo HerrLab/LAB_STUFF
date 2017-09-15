@@ -45,5 +45,12 @@ OPEN OFFICE HOURS?
 
 Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
 
+## __UPCOMING SEMINARS OF INTEREST__
 
+October 4th - Rich Wilson
+October 11th - Steven Short
+November 1st - Gitta Coaker
+November 8th - Jeff Ross-Ibarra
+November 15th - Stacy Krueger-Hadfield
+November 29th - Rob Britton (Rob's office was down the hall from mine at Michigan State)
 
