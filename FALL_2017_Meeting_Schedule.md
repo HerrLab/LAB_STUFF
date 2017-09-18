@@ -47,6 +47,8 @@ Meetings will eventually take place in my new office on East Campus (more on tha
 
 ## __UPCOMING SEMINARS OF INTEREST__
 
+### Biotech / Life Sciences Seminars - 4 pm in Beadle
+
 October 4th - Rich Wilson
 October 11th - Steven Short
 November 1st - Gitta Coaker
