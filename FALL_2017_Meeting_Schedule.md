@@ -4,8 +4,6 @@
 
 __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) at 10 am.__
 
-This will be formal presentations (or a journal club, waiting to hear back from Margaret) and lab discussions. The following schedule is still in effect, now updated. Feel free to claim a week and/or a topic you want to discuss. I'll assign and move forward.
-
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~August 20~~ | ~~Official Start of the Semester & Erin's Birthday Party~~ | ~~Josh's House~~ | ~~6 pm~~ | ~~Everybody~~
@@ -15,7 +13,7 @@ This will be formal presentations (or a journal club, waiting to hear back from 
 ~~September 8~~ | ~~Ashley Gut Group Talk~~ | ~~Food Science Building FIC 220~~ | ~~Noon~~ | ~~Ashley~~
 ~~September 14~~ | ~~Lab Stuff Discussion~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Josh~~
 September 21 | Paper Discussion | Plant Sciences Room 406 | **11 am** |  Josh
-September 28 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+September 28 | NO LAB MEETING | I'm lecturing in LIFE 891 - Feel Free to Attend | 9:30 am |  110 Othmer Hall
 October 5 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 October 12 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 October 19 | Thais Practice Talk | Plant Sciences Room 406 | 10 am |  Thais
@@ -33,13 +31,23 @@ December 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 
 ## __Individual Meetings on Tuesday__
 
-[It looks like](http://whenisgood.net/akrkr3e/results/qkqsztz) everyone is free on Tuesday and Thursday in the morning, so we'll go from there.  I'm proposing the following meeting schedule:
+I'll be teaching the LIFE 891 course from September 26th to October 3rd from 9:00 to 11:00 am, so we'll have to reschedule those individual meetings - we'll talk about this in lab meeting.
 
-** Tuesday Time **|** PERSON **
-:-----:|:-----:
-10:00 am | Timothy / Erin
-11:00 am | Karen / Eddie
-1:00 pm | Thais / Ashley
+** DATE **|** 10:00 am **|** 11:00 am **|** 1:00 pm
+:-----:|:-----:|:-----:|:-----:
+September 19th | Timothy | Karen | Ashley
+September 26th | **Erin** | **Eddie** | Thais
+October 3rd | **Timothy** | **Karen** | Ashley
+October 10th | Erin | Eddie | Thais
+October 17th | Timothy | Karen | Ashley
+October 24th | Erin | Eddie | Thais
+Halloween! | Timothy | Karen | Ashley
+November 7th | Erin | Eddie | Thais
+November 14th | Timothy | Karen | Ashley
+November 21st | Erin | Eddie | Thais
+November 28th | Timothy | Karen | Ashley
+December 5th | Erin | Eddie | Thais
+December 12th | Timothy | Karen | Ashley
 
 OPEN OFFICE HOURS?
 
@@ -47,7 +55,7 @@ Meetings will eventually take place in my new office on East Campus (more on tha
 
 ## __UPCOMING SEMINARS OF INTEREST__
 
-### Biotech / Life Sciences Seminars - 4 pm in Beadle
+### Biotech / Life Sciences Seminars - Wednesdays - 4 pm in Beadle
 
 October 4th - Rich Wilson
 October 11th - Steven Short
