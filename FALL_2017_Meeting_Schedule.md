@@ -33,9 +33,9 @@ December 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 
 I'll be teaching the LIFE 891 course from September 26th to October 3rd from 9:00 to 11:00 am, so we'll have to reschedule those individual meetings - we'll talk about this in lab meeting.
 
-** DATE **|** 10:00 am **|** 11:00 am **|** 1:00 pm
+** DATE **|** 10:00 am **|** 11:00 am **|** 1:00 pm **
 :-----:|:-----:|:-----:|:-----:
-September 19th | Timothy | Karen | Ashley
+~~September 19th~~ | ~~Timothy~~ | ~~Karen~~ | ~~Ashley~~
 September 26th | **Erin** | **Eddie** | Thais
 October 3rd | **Timothy** | **Karen** | Ashley
 October 10th | Erin | Eddie | Thais
