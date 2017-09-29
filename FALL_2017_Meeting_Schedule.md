@@ -12,8 +12,8 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~September 7~~ | ~~Ashley Gut Group Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Ashley~~
 ~~September 8~~ | ~~Ashley Gut Group Talk~~ | ~~Food Science Building FIC 220~~ | ~~Noon~~ | ~~Ashley~~
 ~~September 14~~ | ~~Lab Stuff Discussion~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Josh~~
-September 21 | Paper Discussion | Plant Sciences Room 406 | **11 am** |  Josh
-September 28 | NO LAB MEETING | I'm lecturing in LIFE 891 - Feel Free to Attend | 9:30 am |  110 Othmer Hall
+~~September 21~~ | ~~Paper Discussion~~ | ~~Plant Sciences Room 406~~ | ~~11 am~~ |  ~~Josh~~
+~~September 28~~ | ~~NO LAB MEETING~~ | ~~I'm lecturing in LIFE 891 - Feel Free to Attend~~ | ~~9:30 am~~ |  ~~110 Othmer Hall~~
 October 5 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 October 12 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 October 19 | Thais Practice Talk | Plant Sciences Room 406 | 10 am |  Thais
@@ -36,7 +36,7 @@ I'll be teaching the LIFE 891 course from September 26th to October 3rd from 9:0
 ** DATE **|** 10:00 am **|** 11:00 am **|** 1:00 pm **
 :-----:|:-----:|:-----:|:-----:
 ~~September 19th~~ | ~~Timothy~~ | ~~Karen~~ | ~~Ashley~~
-September 26th | **Erin** | **Eddie** | Thais
+~~September 26th~~ | ~~Erin~~ | ~~Eddie~~ | ~~Thais~~
 October 3rd | **Timothy** | **Karen** | Ashley
 October 10th | Erin | Eddie | Thais
 October 17th | Timothy | Karen | Ashley
