@@ -14,12 +14,12 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~September 14~~ | ~~Lab Stuff Discussion~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Josh~~
 ~~September 21~~ | ~~Paper Discussion~~ | ~~Plant Sciences Room 406~~ | ~~11 am~~ |  ~~Josh~~
 ~~September 28~~ | ~~NO LAB MEETING~~ | ~~I'm lecturing in LIFE 891 - Feel Free to Attend~~ | ~~9:30 am~~ |  ~~110 Othmer Hall~~
-October 5 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
-October 12 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+~~October 5~~ | ~~OPEN~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~TBD~~
+~~October 12~~ | ~~Paper Discussion~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Josh~~
 October 19 | Thais Practice Talk | Plant Sciences Room 406 | 10 am |  Thais
 October 23 | Plant Pathology Seminar | Keim Hall Room 264 | 4 pm | Thais
 October 26 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
-November 2 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
+November 2 | NO LAB MEETING | NO LAB MEETING | NA |  NA
 November 9 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
 November 6 | Karen Practice Talk | Plant Sciences Room 406 | 10 am |  Karen
 November 13 | Plant Pathology Seminar | Keim Hall Room 264 | 4 pm |  Karen
@@ -37,9 +37,9 @@ I'll be teaching the LIFE 891 course from September 26th to October 3rd from 9:0
 :-----:|:-----:|:-----:|:-----:
 ~~September 19th~~ | ~~Timothy~~ | ~~Karen~~ | ~~Ashley~~
 ~~September 26th~~ | ~~Erin~~ | ~~Eddie~~ | ~~Thais~~
-October 3rd | **Timothy** | **Karen** | Ashley
-October 10th | Erin | Eddie | Thais
-October 17th | Timothy | Karen | Ashley
+~~October 3rd~~ | ~~Timothy~~ | ~~Karen~~ | ~~Ashley~~
+~~October 10th~~ | ~~Erin~~ | ~~Eddie~~ | ~~Thais~~
+~~October 17th~~ | ~~Timothy~~ | ~~Karen~~ | ~~Ashley~~
 October 24th | Erin | Eddie | Thais
 Halloween! | Timothy | Karen | Ashley
 November 7th | Erin | Eddie | Thais
@@ -57,8 +57,8 @@ Meetings will eventually take place in my new office on East Campus (more on tha
 
 ### Biotech / Life Sciences Seminars - Wednesdays - 4 pm in Beadle
 
-October 4th - Rich Wilson
-October 11th - Steven Short
+~~October 4th - Rich Wilson~~
+~~October 11th - Steven Short~~
 November 1st - Gitta Coaker
 November 8th - Jeff Ross-Ibarra
 November 15th - Stacy Krueger-Hadfield
