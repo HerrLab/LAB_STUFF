@@ -18,6 +18,7 @@
 
 	* [IMC11](http://imc11.com/) / MSA travel applications were already due (Congratulations Erin & Eddie for submitting applications!)
 	* [ICPP Boston](http://www.icpp2018.org/Pages/default.aspx) / APS abstracts are due December 8th!
+	* Everything cool for the [IPM meeting](https://ipmsymposium.org/2018/posters.html) Karen?
 
 ## Next semester schedules for lab meetings and individual meetings
 
@@ -25,3 +26,5 @@
 	* We'll survey out schedules closer to the start to the spring semester
 
 ## Other things?
+
+### Mark your calendars - the next Science Cafe will be me! January 23rd, 2018!
