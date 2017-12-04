@@ -23,7 +23,7 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~November 9~~ | ~~Karen Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Karen~~
 ~~November 13~~ | ~~Plant Pathology Seminar~~ | ~~Keim Hall Room 264~~ | ~~4 pm~~ |  ~~Karen~~
 ~~November 23~~ | ~~Lab Thanksgiving gathering at Josh's House~~ | ~~Josh's House~~ | ~~6 pm~~ |  ~~Josh~~
-November 30 | Lab Update | Plant Sciences Room 406 | 10 am |  Josh
+~~November 30~~ | ~~Lab Update~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ |  ~~Josh~~
 December 7 | Erin Practice Talk | Plant Sciences Room 406 | 10 am |  Erin
 December 8 | Erin Biology Seminar | Beadle N177 | 3:30 pm | Erin
 December 14 | OPEN | Plant Sciences Room 406 | 10 am |  TBD
@@ -51,4 +51,3 @@ December 12th | Timothy | Karen | Ashley
 OPEN OFFICE HOURS?
 
 Meetings will eventually take place in my new office on East Campus (more on that when I can move into the space), so let's plan on meeting at Cultiva on East Campus until further notice.
-
