@@ -16,7 +16,7 @@ February 26 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 March 5 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 March 12 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 March 19 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-March 26 | EVENT | Plant Sciences Room 406 | TIME | PERSON
+March 26 | Thais' Agronomy Seminar | Keim Hall 150 | 4:00pm | Thais
 April 2 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 April 9 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 April 16 | EVENT | Plant Sciences Room 406 | TIME | PERSON
