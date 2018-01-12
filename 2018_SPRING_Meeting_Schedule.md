@@ -7,7 +7,7 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 January 15 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-January 22 | EVENT | Plant Sciences Room 406 | TIME | PERSON
+January 22 | Timothy's GCMB Seminar Practice Presentation | Plant Sciences Room 406 | TIME | Timothy
 January 29 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 February 5 | EVENT | Plant Sciences Room 406 | TIME | PERSON
 February 12 | EVENT | Plant Sciences Room 406 | TIME | PERSON
