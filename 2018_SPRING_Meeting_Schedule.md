@@ -2,27 +2,27 @@
 
 ## LAB MEETING
 
-__Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) at a day and time to be determined.__
+__Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) on Thursday's at 9 to 10 am.__
 
-** DATE (May include week of) **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
+** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
-January 15 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-January 22 | Timothy's GCMB Seminar Practice Presentation | Plant Sciences Room 406 | TIME | Timothy
-January 29 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-February 5 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-February 12 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-February 19 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-February 26 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-March 5 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-March 12 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-March 19 | EVENT | Plant Sciences Room 406 | TIME | PERSON
+January 22 | Timothy's GCMB Seminar Practice Presentation | Plant Sciences Room 406 | 9 am | Timothy
+February 1 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+February 8 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+February 15 | PSI Practice Talk | Plant Sciences Room 406 | 9 am | Josh
+February 15 | PSI Presentation | Beadle | 4 pm | Lab Peeps
+February 22 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+March 1 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+March 8 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+March 15 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+March 22 | Thais Practice Talk | Plant Sciences Room 406 | 9 am | Thais
 March 26 | Thais' Agronomy Seminar | Keim Hall 150 | 4:00pm | Thais
-April 2 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-April 9 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-April 16 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-April 23 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-April 30 | EVENT | Plant Sciences Room 406 | TIME | PERSON
-May 7 | EVENT | Plant Sciences Room 406 | TIME | PERSON
+March 29 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+April 5 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+April 12 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+April 19 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+April 26 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+May 3 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 
 ## __Individual Meetings__
 
