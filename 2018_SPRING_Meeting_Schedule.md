@@ -7,11 +7,13 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 January 25 | Timothy's GCMB Seminar Practice Presentation | Plant Sciences Room 406 | 9 am | Timothy
+
 February 1 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 February 8 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 February 15 | PSI Practice Talk | Plant Sciences Room 406 | 9 am | Josh
 February 15 | PSI Presentation | Beadle | 4 pm | Lab Peeps
-February 22 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
+February 20 | EVENT | Plant Sciences Room 406 | 9 am | Ashley
+February 22 | EVENT | BEADLE E228 | 4 pm | Ashley
 March 1 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 March 8 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 March 15 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
