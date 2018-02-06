@@ -1,6 +1,6 @@
 # This is a file to schedule weekly lab meetings and discussions
 
-## LAB MEETING
+## Herr LAB MEETING
 
 NO MORE LAB MEETINGS!!! (jk)
 
