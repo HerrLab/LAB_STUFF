@@ -1,6 +1,6 @@
 # This is a file to schedule weekly lab meetings and discussions
 
-## Herr LAB MEETING
+## LAB MEETING
 
 LAB MEETING EVERY DAY!!!
 
