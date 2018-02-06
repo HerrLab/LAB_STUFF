@@ -2,6 +2,10 @@
 
 ## LAB MEETING
 
+
+NO MORE LAB MEETINGS!!! (jk)
+
+
 __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) on Thursday's at 9 to 10 am. Since we have busy mornings, we'll try to keep lab meeting to one hour.__
 
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
