@@ -5,4 +5,5 @@
 |  Item name | Item order number | Number of items you need |
 |  :-------- | :---------------- | :----------------------- |
 |  Example: Primers  |  Whatever  |  4  |
-|  example 2  |  petri dishes  |  Fisher: 2937  |  one box  |
+|  example: petri dishes  |  Fisher: 2937  |  one box  |
+| Josh needs a Printer Cartridge | Don't know model | 1 |
