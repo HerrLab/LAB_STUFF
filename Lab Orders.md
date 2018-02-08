@@ -4,5 +4,5 @@
 
 |  Item name | Item order number | Number of items you need |
 |  :-------- | :---------------- | :----------------------- |
-|  Ecxample: Primers  |  Whatever  |  4  |
-|  :-------- | :---------------- | :----------------------- |
+|  Example: Primers  |  Whatever  |  4  |
+
