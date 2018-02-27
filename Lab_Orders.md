@@ -6,4 +6,4 @@
 |  :-------- | :---------------- | :----------------------- |
 |  Example: Primers  |  Whatever  |  4  |
 |  example: petri dishes  |  Fisher: 2937  |  one box  |
-| Josh needs a Printer Cartridge | Don't know model | 1 |
+| Karen needs primers | Don't know sequences | 2? 4? |
