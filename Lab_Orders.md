@@ -8,3 +8,4 @@
 |  example: petri dishes  |  Fisher: 2937  |  one box  |
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
+| BME | check and see if its in Riekhof lab | 1 bottle  |

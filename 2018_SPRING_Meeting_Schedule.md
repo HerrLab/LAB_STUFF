@@ -15,7 +15,7 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~February 20~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Ashley~~
 ~~March 1~~ | ~~Lab Meeting - Organization~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Josh~~
 ~~March 8~~ | ~~Lab Meeting - Paper Review~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Josh~~
-~~March 8~~ | ~~Ashley's Reschedule Seminar~~ | ~~BEADLE E228~~ | ~~4 pm~~ | ~~Ashley~~
+~~March 8~~ | ~~Ashley's Rescheduled Seminar~~ | ~~BEADLE E228~~ | ~~4 pm~~ | ~~Ashley~~
 ~~March 15~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~PERSON~~
 ~~March 22~~ | ~~Thais Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Thais~~
 March 26 | Thais's Agronomy Seminar | Keim Hall 150 | 4:00pm | Thais
