@@ -17,7 +17,7 @@ March 1 | Lab Meeting - Organization | Plant Sciences Room 406 | 9 am | Josh
 March 8 | Lab Meeting - Paper Review | Plant Sciences Room 406 | 9 am | Josh
 March 8 | Ashley's Reschedule Seminar | BEADLE E228 | 4 pm | Ashley
 March 15 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
-March 22 | Thais Practice Talk | Plant Sciences Room 406 | 9 am | Thais
+March 22 | SPRING BREAK | SPRING BREAK | SPRING BREAK |
 March 26 | Thais's Agronomy Seminar | Keim Hall 150 | 4:00pm | Thais
 March 29 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
 April 5 | EVENT | Plant Sciences Room 406 | 9 am | PERSON
