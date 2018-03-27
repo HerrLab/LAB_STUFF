@@ -18,9 +18,9 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~March 8~~ | ~~Ashley's Rescheduled Seminar~~ | ~~BEADLE E228~~ | ~~4 pm~~ | ~~Ashley~~
 ~~March 15~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~PERSON~~
 ~~March 22~~ | ~~Thais Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Thais~~
-March 26 | Thais's Agronomy Seminar | Keim Hall 150 | 4:00pm | Thais
+~~March 26~~ | ~~Thais's Agronomy Seminar~~ | ~~Keim Hall 150~~ | ~~4:00pm~~ | ~~Thais~~
 March 28 | Lab Meeting w/ Jason Stajich | Plant Sciences Room 406B | 10:40 to 11:30 am | LAB
-March 29 | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
+March 29 | Lab Stuff & OUCH! | Plant Sciences Room 406 | 9 am | Karen & Josh
 April 5 | CANCELLED - NO LAB MEETING | Plant Sciences Room 406 | 9 am | PERSON
 April 12 | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 April 19 | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
@@ -41,7 +41,7 @@ We'll alternate meeting on Tuesdays for one hour each like last semester. We can
 ~~March 6th~~ | ~~RESCHEDULED~~ | ~~RESCHEDULED~~ | ~~RESCHEDULED~~
 ~~March 13th~~ | ~~Karen~~ | ~~Thais~~ | ~~Erin~~
 ~~March 20th~~ | ~~spring break~~ | ~~spring break~~ | ~~spring break~~
-March 27th | Timothy | Eddie | Ashley
+~~March 27th~~ | ~~Timothy~~ | ~~Eddie~~ | ~~Ashley~~
 April 3rd | Karen | Thais | Erin
 April 10th | Timothy | Eddie | Ashley
 April 17th | Karen | Thais | Erin
