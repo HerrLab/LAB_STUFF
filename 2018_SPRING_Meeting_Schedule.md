@@ -19,8 +19,8 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ~~March 15~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~PERSON~~
 ~~March 22~~ | ~~Thais Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Thais~~
 ~~March 26~~ | ~~Thais's Agronomy Seminar~~ | ~~Keim Hall 150~~ | ~~4:00pm~~ | ~~Thais~~
-March 28 | Lab Meeting w/ Jason Stajich | Plant Sciences Room 406B | 10:40 to 11:30 am | LAB
-March 29 | Lab Stuff & OUCH! | Plant Sciences Room 406 | 9 am | Karen & Josh
+~~March 28~~ | ~~Lab Meeting w/ Jason Stajich~~ | ~~Plant Sciences Room 406B~~ | ~~10:40 to 11:30 am~~ | ~~LAB~~
+~~March 29~~ | ~~Lab Stuff & OUCH!~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Josh~~
 April 5 | CANCELLED - NO LAB MEETING | Plant Sciences Room 406 | 9 am | PERSON
 April 12 | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 April 19 | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
