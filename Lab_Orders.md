@@ -9,3 +9,4 @@
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
 | BME | check and see if its in Riekhof lab | 1 bottle  |
+| RNA extraction kit | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | 3 |
