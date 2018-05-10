@@ -12,7 +12,7 @@ Week of May 28th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 4th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 11th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 18th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
-Week of June 25th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
+Week of June 25th | Lab Meeting | Plant Sciences Room 406 | TIME | Eddie
 Week of July 2nd | NO Lab Meeting, but fun event | TBA | TIME | Josh
 Week of July 9th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of August 13th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
