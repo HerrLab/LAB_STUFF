@@ -10,6 +10,7 @@ May 15th | Lab Meeting | Plant Sciences Room 406 | 10 am | Josh
 Week of May 21st | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of May 28th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 4th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
+Week of June 4th | Start of Summer Fun Party and visitor introductions | TBA | TIME | Josh
 Week of June 11th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 18th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 Week of June 25th | Lab Meeting | Plant Sciences Room 406 | TIME | Eddie
@@ -19,6 +20,8 @@ Week of August 13th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
 Week of August 20th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
+
+Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
 
 ## __Individual Meetings__
 
