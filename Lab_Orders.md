@@ -19,7 +19,6 @@
 
 - Sprayers (for ethanol 70%)
 - 10uL Tips
-- Ice bucket with lid (for ice or liquid nitrogen)
 - Big Flasks for media
 - Big Beakers for media
 - Powdered PDA media (or good recipe)
