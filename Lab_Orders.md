@@ -10,6 +10,11 @@
 | Dremel tool | find the right one |
 | RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | 3 |
 | Difco Nutrient Broth - Thais | - | - |
+| Nalidixic Acid - Thais | Sigma N8878-25G | 25g |
+| Cycloheximide - Thais | Sigma C7698-5G | 5g|
+| Polymyxin B sulfate - Thais | Sigma PHR1595-500MG | 500mg| 
+| Bravo Fungicide - Thais | - | - |
+
 
 ## Notes:
 
@@ -17,13 +22,13 @@
 
 ### DO WE NEED THIS STUFF
 
-- Sprayers (for ethanol 70%)
-- 10uL Tips
+- Sprayers (for ethanol 70%) - we have just 1
+- 200uL and 1000uL Tips with filter
 - Big Flasks for media
 - Big Beakers for media
 - Powdered PDA media (or good recipe)
-- petri plates
-- brushes to clean glasswear
+- Petri plates
+- Brushes to clean glasswear
 - autoclave jars for tubes
 - drill for pestle grinding
 
