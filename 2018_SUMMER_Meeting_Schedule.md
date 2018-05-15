@@ -7,27 +7,31 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 May 15th | Lab Meeting | Plant Sciences Room 406 | 10 am | Josh
-Week of May 21st | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
-Week of May 28th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
+May 23rd | Lab Meeting | TBA | 2 PM | PERSON
 Week of June 4th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
 Week of June 4th | Start of Summer Fun Party and visitor introductions | TBA | TIME | Josh
-Week of June 11th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
-Week of June 18th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
+June 13th | DiSC Lab Meeting | Plant Sciences Room 406 | 2 pm | Thais & Eddie
+June 20th | Lab Meeting | Plant Sciences Room 406 | 2 pm | Erin
 Week of June 25th | Lab Meeting | Plant Sciences Room 406 | TIME | Eddie
 Week of July 2nd | NO Lab Meeting, but fun event | TBA | TIME | Josh
-Week of July 9th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
+Week of July 9th | Lab Meeting | Plant Sciences Room 406 | TIME | Karen
 Week of August 13th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
 Week of August 20th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
 
+May 30th is the professional workshop so we won't have lab meeting that week
+
 Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
+
+Thirsty Thursdays at the SaltDogs!
+
+Pippette and lab olympics
 
 ## __Individual Meetings__
 
 We'll alternate meeting on Tuesdays for one hour each like last semester. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. We will take a break for spring break week, but I will be here for specific meetings. Let me know if this time no longer works for you or if you have to be away for a specific week.
 
-** DAY **|** TIME **|** TIME **|** TIME **
+** Tuesdays **|** Noon **|** 1 pm **|** 2 pm **|** 3 pm **|** 4 pm **
 :-----:|:-----:|:-----:|:-----:
-DAY | Timothy | Eddie | Ashley
-DAY | Karen | Thais | Erin
+TUESDAY | Ashley | Thais | Eddie | Erin | Karen 
