@@ -31,6 +31,7 @@
 - Brushes to clean glasswear
 - autoclave jars for tubes
 - drill for pestle grinding
+- fancy scales
 
 ### OLDER THINGS
 
