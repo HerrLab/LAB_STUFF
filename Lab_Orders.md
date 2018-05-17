@@ -8,7 +8,7 @@
 [//]: # (|  example: petri dishes  |  Fisher: 2937  |  one box  |)
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
-| RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | DONE 5/9/18 |
+| RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | DONE, Karen took them need to order MORE for Thais 5/9/18 |
 | Difco Nutrient Broth - Thais | - | DONE 5/16/18 |
 | Nalidixic Acid - Thais | Sigma N8878-25G | DONE 5/16/18 |
 | Cycloheximide - Thais | Sigma C7698-5G | DONE 5/16/18 |
