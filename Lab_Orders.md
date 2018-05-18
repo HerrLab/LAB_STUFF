@@ -8,12 +8,12 @@
 [//]: # (|  example: petri dishes  |  Fisher: 2937  |  one box  |)
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
-| RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | 3 |
-| Difco Nutrient Broth - Thais | - | - |
-| Nalidixic Acid - Thais | Sigma N8878-25G | 25g |
-| Cycloheximide - Thais | Sigma C7698-5G | 5g|
-| Polymyxin B sulfate - Thais | Sigma PHR1595-500MG | 500mg| 
-| Bravo Fungicide - Thais | - | - |
+| RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | DONE, Karen took them need to order MORE for Thais 5/9/18 |
+| Difco Nutrient Broth - Thais | - | DONE 5/16/18 |
+| Nalidixic Acid - Thais | Sigma N8878-25G | DONE 5/16/18 |
+| Cycloheximide - Thais | Sigma C7698-5G | DONE 5/16/18 |
+| Polymyxin B sulfate - Thais | Sigma PHR1595-500MG | DONE 5/16/18| 
+| Bravo Fungicide - Thais | - | DONE 5/16/18 |
 
 
 ## Notes:
@@ -22,12 +22,12 @@
 
 ### DO WE NEED THIS STUFF
 
-- Sprayers (for ethanol 70%) - we have just 1
+- Sprayers (for ethanol 70%) - DONE
 - 200uL and 1000uL Tips with filter
 - Big Flasks for media
 - Big Beakers for media
 - Powdered PDA media (or good recipe)
-- Petri plates
+- Petri plates - DONE
 - Brushes to clean glasswear
 - autoclave jars for tubes
 - drill for pestle grinding
@@ -35,7 +35,6 @@
 
 ### OLDER THINGS
 
-- 1.5mL microtubes (Josh's note: we should have plenty of these - who is looking for these?)
 
 ### PAST ITEMS
 
