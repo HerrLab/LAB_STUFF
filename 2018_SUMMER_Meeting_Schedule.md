@@ -32,6 +32,6 @@ Pippette and lab olympics
 
 We'll alternate meeting on Tuesdays for one hour each like last semester. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. We will take a break for spring break week, but I will be here for specific meetings. Let me know if this time no longer works for you or if you have to be away for a specific week.
 
-** Tuesdays **|** Noon **|** 1 pm **|** 2 pm **|** 3 pm **|** 4 pm **
+** Tuesdays **|** Noon **|** 1 pm **|** 2 pm **|** 3 pm **
 :-----:|:-----:|:-----:|:-----:
 TUESDAY | Ashley | Thais | Eddie | Erin
