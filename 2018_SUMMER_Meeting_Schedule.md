@@ -4,7 +4,7 @@
 
 __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room). Since we have busy mornings, we'll try to keep lab meeting to one hour.__
 
-** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 May 15th | Lab Meeting | Plant Sciences Room 406 | 10 am | Josh
 May 23rd | Extra Special Lab Meeting | Plant Sciences Room 375 | 2 PM | Josh
@@ -32,6 +32,6 @@ Pippette and lab olympics
 
 We'll alternate meeting on Tuesdays for one hour each like last semester. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. We will take a break for spring break week, but I will be here for specific meetings. Let me know if this time no longer works for you or if you have to be away for a specific week.
 
-** Tuesdays **|** Noon **|** 1 pm **|** 2 pm **|** 3 pm **
-:-----:|:-----:|:-----:|:-----:
+**Tuesdays** | **Noon** | **1 pm** | **2 pm** | **3 pm**
+:-----:|:-----:|:-----:|:-----:|:-----:
 TUESDAY | Ashley | Thais | Eddie | Erin
