@@ -7,16 +7,16 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
 May 15th | Lab Meeting | Plant Sciences Room 406 | 10 am | Josh
-May 23rd | Extra Special Lab Meeting | TBA | 2 PM | Josh
-Week of June 4th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
+May 23rd | Extra Special Lab Meeting | Plant Sciences Room 375 | 2 PM | Josh
+Week of June 4th | Lab Meeting | Plant Sciences Room 375 | TIME | Ashley
 Week of June 4th | Start of Summer Fun Party and visitor introductions | TBA | TIME | Josh
-June 13th | DiSC Lab Meeting | Plant Sciences Room 406 | 2 pm | Thais & Eddie
-June 20th | Lab Meeting | Plant Sciences Room 406 | 2 pm | Erin
-Week of June 25th | Lab Meeting | Plant Sciences Room 406 | TIME | Eddie
+June 13th | DiSC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
+June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Erin
+Week of June 25th | Lab Meeting | Plant Sciences Room 375 | TIME | Eddie
 Week of July 2nd | NO Lab Meeting, but fun event | TBA | TIME | Josh
-Week of July 9th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON?
-Week of August 13th | Lab Meeting | Plant Sciences Room 406 | TIME | Ashley
-Week of August 20th | Lab Meeting | Plant Sciences Room 406 | TIME | PERSON?
+Week of July 9th | Lab Meeting | Plant Sciences Room 375 | TIME | PERSON?
+Week of August 13th | Lab Meeting | Plant Sciences Room 375 | TIME | Ashley
+Week of August 20th | Lab Meeting | Plant Sciences Room 375 | TIME | PERSON?
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
 
