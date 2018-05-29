@@ -6,8 +6,8 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
-May 15th | Lab Meeting | Plant Sciences Room 406 | 10 am | Josh
-May 23rd | Extra Special Lab Meeting | Plant Sciences Room 375 | 2 PM | Josh
+~~May 15th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
+~~May 23rd~~ | ~~Extra Special Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 PM~~ | ~~Josh~~
 June 6th | Lab Meeting | Plant Sciences Room 375 | 2 PM | Ashley
 Week of June 4th | Start of Summer Fun Party and visitor introductions | TBA | TIME | Josh
 June 13th | DiSC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
