@@ -14,6 +14,7 @@
 | Cycloheximide - Thais | Sigma C7698-5G | DONE 5/16/18 |
 | Polymyxin B sulfate - Thais | Sigma PHR1595-500MG | DONE 5/16/18| 
 | Bravo Fungicide - Thais | - | DONE 5/16/18 |
+| Adhesive Plate Seal - Thais | in Riekhof's Lab | 
 
 
 ## Notes:
