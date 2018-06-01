@@ -5,7 +5,6 @@
 |Item name | Item order number | Number of items you need |
 |  :-------- | :---------------- | :----------------------- |
 |  Example: Primers  |  Whatever  |  4  |
-[//]: # (|  example: petri dishes  |  Fisher: 2937  |  one box  |)
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
 | RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | DONE, Karen took them need to order MORE for Thais 5/9/18 |
