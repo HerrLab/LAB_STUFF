@@ -30,8 +30,15 @@ Pippette and lab olympics
 
 ## __Individual Meetings__
 
-We'll alternate meeting on Tuesdays for one hour each like last semester. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. We will take a break for spring break week, but I will be here for specific meetings. Let me know if this time no longer works for you or if you have to be away for a specific week.
+We'll meet every Tuesdays for summer. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. Let me know if this time no longer works for you or if you have to be away for a specific week.
 
 **DAY** | **Noon** | **1 pm** | **2 pm** | **3 pm**
 :-----:|:-----:|:-----:|:-----:|:-----:
-TUESDAY | Ashley | Thais | Eddie | Erin
+TUESDAYS | Ashley | Thais | Eddie | Erin
+
+We'll meet on the following Tuesdays:
+- June 5th
+- June 12th
+- June 19th
+- July 3rd
+- August 14th
