@@ -7,16 +7,16 @@ __Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Ro
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~May 15th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
-~~May 23rd~~ | ~~Extra Special Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 PM~~ | ~~Josh~~
-June 6th | Lab Meeting | Plant Sciences Room 375 | 2 PM | Ashley
-Week of June 4th | Start of Summer Fun Party and visitor introductions | TBA | TIME | Josh
+~~May 23rd~~ | ~~Extra Special Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Josh~~
+June 6th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Ashley
+June 10th | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
 June 13th | DiSC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
+June 18th Week | Lab Event! More TBA! | TBA | TBA | Everyone!
 June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Erin
-Week of June 25th | Lab Meeting | Plant Sciences Room 375 | TIME | Eddie
-Week of July 2nd | NO Lab Meeting, but fun event | TBA | TIME | Josh
-July 11th | Lab Meeting | Plant Sciences Room 375 | TIME | PERSON?
-Week of August 13th | Lab Meeting | Plant Sciences Room 375 | TIME | Ashley
-Week of August 20th | Lab Meeting | Plant Sciences Room 375 | TIME | PERSON?
+June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Eddie
+July 1st | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
+July 4th | NO Lab Meeting, but fun event | TBA | TIME TBA | Josh
+August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
 
@@ -24,9 +24,9 @@ May 30th is the professional workshop so we won't have lab meeting that week
 
 Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
 
-Thirsty Thursdays at the SaltDogs!
 
-Pippette and lab olympics
+
+Pippette and lab olympics?
 
 ## __Individual Meetings__
 
