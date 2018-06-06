@@ -14,10 +14,11 @@ June 6th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Ashley
 June 10th | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
 June 13th | DiSC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
 June 18th Week | Lab Event! More TBA! | TBA | TBA | Everyone!
-June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Erin
+June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm to 3 pm (Note time!) | Erin
 June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Eddie
 July 1st | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
 July 4th | NO Lab Meeting, but fun event | TBA | TIME TBA | Josh
+July 6th (Special Lab Meeting) | Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Shamira
 August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
