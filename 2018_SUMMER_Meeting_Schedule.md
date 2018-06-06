@@ -4,7 +4,7 @@
 
 __Lab meeting location: PLANT SCIENCES ROOM 375.__
 
-Since we're really busy this summer, we'll try to keep lab meeting to one hour.
+Since we're really busy this summer, we'll try to keep lab meeting to two hours and have a brief overview from everyone and then one person will present in preparation for summer presentations.
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
