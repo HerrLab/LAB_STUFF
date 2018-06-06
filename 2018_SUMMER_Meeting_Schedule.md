@@ -2,7 +2,9 @@
 
 ## LAB MEETING & EVENT CALENDAR
 
-__Lab meeting: PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room). Since we have busy mornings, we'll try to keep lab meeting to one hour.__
+__Lab meeting location: PLANT SCIENCES ROOM 375.__
+
+Since we're really busy this summer, we'll try to keep lab meeting to one hour.
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
@@ -20,11 +22,9 @@ August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
 
-May 30th is the professional workshop so we won't have lab meeting that week
+~~May 30th is the professional workshop so we won't have lab meeting that week~~
 
 Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
-
-
 
 Pippette and lab olympics?
 
@@ -37,7 +37,7 @@ We'll meet every Tuesdays for summer. We can meet in my office in 422 Plant Scie
 TUESDAYS | Ashley | Thais | Eddie | Erin
 
 We'll meet on the following Tuesdays:
-- June 5th
+- ~~June 5th~~
 - June 12th
 - June 19th
 - July 3rd
