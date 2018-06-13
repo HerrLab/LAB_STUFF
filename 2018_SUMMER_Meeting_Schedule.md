@@ -10,9 +10,8 @@ Since we're really busy this summer, we'll try to keep lab meeting to two hours 
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~May 15th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
 ~~May 23rd~~ | ~~Extra Special Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Josh~~
-June 6th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Ashley
-June 10th | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
-June 13th | DiSC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
+~~June 6th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Ashley~~
+June 13th | DISC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
 June 18th Week | Lab Event! More TBA! | TBA | TBA | Everyone!
 June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm to 3 pm (Note time!) | Erin
 June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Eddie
@@ -37,9 +36,11 @@ We'll meet every Tuesdays for summer. We can meet in my office in 422 Plant Scie
 :-----:|:-----:|:-----:|:-----:|:-----:
 TUESDAYS | Ashley | Thais | Eddie | Erin
 
+THURSDAYS - Timothy at 10 am
+
 We'll meet on the following Tuesdays:
 - ~~June 5th~~
-- June 12th
+- ~~June 12th~~
 - June 19th
 - July 3rd
 - August 14th
