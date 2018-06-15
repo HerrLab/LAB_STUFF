@@ -37,9 +37,10 @@
 
 ### OLDER THINGS
 
+### Equipment Suggestions
 
-### PAST ITEMS
+Microplate Spinner - https://www.stellarscientific.com/labnet-mps-1000-mini-pcr-plate-spinner-for-two-pcr-plates/?sku=LI-CF-P1000&gclid=EAIaIQobChMIhcTa8OnV2wIVlR2BCh1ptwxFEAQYAyABEgLXkfD_BwE
 
-We now have a 8 channel Pipetter - let me know if this is something we need more of?
+8 channel Pipetter 
 
-Do we need this? [Repeater M4 Eppendorf](https://online-shop.eppendorf.us/US-en/Manual-Liquid-Handling-44563/Dispensers--Burettes-44566/Repeater-M4-PF-44619.html)
+[Repeater M4 Eppendorf](https://online-shop.eppendorf.us/US-en/Manual-Liquid-Handling-44563/Dispensers--Burettes-44566/Repeater-M4-PF-44619.html)
