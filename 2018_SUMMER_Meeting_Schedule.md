@@ -11,11 +11,10 @@ Since we're really busy this summer, we'll try to keep lab meeting to two hours 
 ~~May 15th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~10 am~~ | ~~Josh~~
 ~~May 23rd~~ | ~~Extra Special Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Josh~~
 ~~June 6th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Ashley~~
-June 13th | DISC Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Eddie
-June 18th Week | Lab Event! More TBA! | TBA | TBA | Everyone!
-June 20th | Lab Meeting | Plant Sciences Room 375 | 2 pm to 3 pm (Note time!) | Erin
-June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm | Eddie
-July 1st | SaltDogs Game! | Saltdogs Stadium | 1 pm | Everyone!
+~~June 13th~~ | ~~DISC Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Thais & Eddie~~
+~~June 20th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Erin~~
+June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm to 3 pm (Note time!) | Eddie
+July 1st | SaltDogs Game?!? | Saltdogs Stadium | 1 pm | Everyone!
 July 4th | NO Lab Meeting, but fun event | TBA | TIME TBA | Josh
 July 6th (Special Lab Meeting) | Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Shamira
 August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
@@ -41,6 +40,6 @@ THURSDAYS - Timothy at 10 am
 We'll meet on the following Tuesdays:
 - ~~June 5th~~
 - ~~June 12th~~
-- June 19th
+- ~~June 19th~~
 - July 3rd
 - August 14th
