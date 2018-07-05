@@ -13,10 +13,8 @@ Since we're really busy this summer, we'll try to keep lab meeting to two hours 
 ~~June 6th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Ashley~~
 ~~June 13th~~ | ~~DISC Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Thais & Eddie~~
 ~~June 20th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Erin~~
-June 27th | Lab Meeting | Plant Sciences Room 375 | 2 pm to 3 pm (Note time!) | Eddie
-July 1st | SaltDogs Game?!? | Saltdogs Stadium | 1 pm | Everyone!
-July 4th | NO Lab Meeting, but fun event | TBA | TIME TBA | Josh
-July 6th (Special Lab Meeting) | Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Shamira
+~~June 27th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm to 3 pm~~ | ~~Eddie~~
+July 9th (Note Day) | Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Shamira
 August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
@@ -41,5 +39,5 @@ We'll meet on the following Tuesdays:
 - ~~June 5th~~
 - ~~June 12th~~
 - ~~June 19th~~
-- July 3rd
+- ~~July 3rd~~
 - August 14th
