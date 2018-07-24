@@ -17,6 +17,7 @@
 | RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | 3 kits ordered May 31st |
 | Microbank cryovials - Thais | Cat No. PL.170/G http://www.pro-lab.com/products/clinical-microbiology/bacteriology/microbank/ | 1 box ordered May 31st |
 | Fully skirted plate - Thais | Ordered May 31st |
+| Ethanol - Thais | ----- |
 
 ## Notes:
 
