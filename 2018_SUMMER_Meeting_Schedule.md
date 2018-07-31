@@ -14,16 +14,16 @@ Since we're really busy this summer, we'll try to keep lab meeting to two hours 
 ~~June 13th~~ | ~~DISC Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Thais & Eddie~~
 ~~June 20th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Erin~~
 ~~June 27th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm to 3 pm~~ | ~~Eddie~~
-July 9th (Note Day) | Lab Meeting | Plant Sciences Room 375 | 2 pm | Thais & Shamira
+~~July 9th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 375~~ | ~~2 pm~~ | ~~Thais & Shamira~~
 August 15th | Lab Meeting | Plant Sciences Room 375 | 2 pm (?) | Ashley (?)
 
 There will be no lab events from July 14th until August 10th due to the IMA and ICPP meetings.
 
 ~~May 30th is the professional workshop so we won't have lab meeting that week~~
 
-Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
+On August 15th, let's review from the summer, take a lab photo, and plan for the fall!
 
-Pippette and lab olympics?
+Also, I'm going to try to have regular bonfire - backyard movie nights if everyone is interested. First up, since a lot of you haven't seen the movie, is "Ferris Bueller's Day Off"!
 
 ## __Individual Meetings__
 
