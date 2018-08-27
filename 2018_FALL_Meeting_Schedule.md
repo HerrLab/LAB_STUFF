@@ -6,7 +6,7 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
 :-----:|:-----:|:-----:|:-----:|:-----:
-September 5th | Lab Meeting | Plant Sciences Room 406 | 9 am | Eddie
+September 5th | Lab Meeting - Practice Talk | Plant Sciences Room 406 | 9 am | Eddie
 September 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 September 19th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 September 26th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
@@ -34,7 +34,8 @@ November 23rd | Thanksgiving Party | Josh's House | TBA | Josh
 
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
-** Which Day? **|** TBA **|** TBA **|** TBA **
-:-----:|:-----:|:-----:|:-----:
-Which Day? | | Thais | Erin
-Which Day? | Timothy | Eddie | Ashley
+Thais - 1 to 2 pm Tuesdays?
+Ashley - 2 to 3 pm Tuesdays?
+Erin - 3 to 4 Tuesdays or anytime Friday (if that's your East Campus day)?
+Eddie - Wednesday 1 to 2 pm or anytime Friday?
+Timothy - 9 to 10 am Thursdays?
