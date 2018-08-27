@@ -24,7 +24,6 @@ December 5th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 December 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 
 ## __Special Lab Events__
-
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** HOST **
 :-----:|:-----:|:-----:|:-----:|:-----:
 
