@@ -30,12 +30,16 @@ September 10th | Eddie's Plant Path Seminar Talk | Keim ? | 4 pm | Eddie
 October 29th | Timothy's MS Defense | Beadle N263 | Noon to 3 pm | Timothy
 November 23rd | Thanksgiving Party | Josh's House | TBA | Josh
 
+On September 25th to 27th we're hosting Dr. Larry York from the Noble Foundation for biotechnology seminar. We will set up specific meetings with students for lunch!
+
+We're hosting another speaker on December 4th to 6th - more information TBA.
+
 ## __Individual Meetings__
 
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
-Thais - 1 to 2 pm Tuesdays?
-Ashley - 2 to 3 pm Tuesdays?
-Erin - 3 to 4 Tuesdays or anytime Friday (if that's your East Campus day)?
-Eddie - Wednesday 1 to 2 pm or anytime Friday?
-Timothy - 9 to 10 am Thursdays?
+* Thais - 1 to 2 pm Tuesdays?
+* Ashley - 2 to 3 pm Tuesdays?
+* Erin - 3 to 4 Tuesdays or anytime Friday (if that's your East Campus day)?
+* Eddie - Wednesday 1 to 2 pm or anytime Friday?
+* Timothy - 9 to 10 am Thursdays?
