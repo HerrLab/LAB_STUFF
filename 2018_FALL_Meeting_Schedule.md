@@ -27,14 +27,13 @@ December 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 
 ** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** HOST **
 :-----:|:-----:|:-----:|:-----:|:-----:
-
 September 10th | Eddie's Plant Path Seminar Talk | Keim ? | 4 pm | Eddie
 October 29th | Timothy's MS Defense | Beadle N263 | Noon to 3 pm | Timothy
 November 23rd | Thanksgiving Party | Josh's House | TBA | Josh
 
 ## __Individual Meetings__
 
-We'll alternate meeting on Tuesdays for one hour. We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. We will take a break for spring break week, but I will be here for specific meetings. Let me know if this time no longer works for you or if you have to be away for a specific week.
+We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
 ** Which Day? **|** TBA **|** TBA **|** TBA **
 :-----:|:-----:|:-----:|:-----:
