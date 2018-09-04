@@ -38,8 +38,8 @@ We're hosting another speaker on December 4th to 6th - more information TBA.
 
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
-* **Thais - 1 to 2 pm Tuesdays
+* Thais - Tuesdays 1 to 2 pm
 * **Ashley - 2 to 3 pm Tuesdays?**
-* **Erin - Sometime Wednesday Afternoon?**
+* Erin - Wednesdays 2 to 3 pm
 * **Eddie - Wednesday 1 to 2 pm or anytime Friday?**
-* Timothy - 9 to 10 am Thursdays
+* Timothy - Thursdays 9 to 10 am
