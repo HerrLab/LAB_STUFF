@@ -42,4 +42,4 @@ We can meet in my office in 422 Plant Science Hall unless you would like to meet
 * Ashley - 2 to 3 pm Tuesdays?
 * Erin - 3 to 4 Tuesdays or anytime Friday (if that's your East Campus day)?
 * Eddie - Wednesday 1 to 2 pm or anytime Friday?
-* Timothy - 9 to 10 am Thursdays?
+* Timothy - 9 to 10 am Thursdays
