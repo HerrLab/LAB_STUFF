@@ -4,7 +4,7 @@
 
 __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) unless otherwise noted. Since we are busy, we'll try to keep lab meeting to one hour.__
 
-** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** PRESENTER **
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 September 5th | Lab Meeting - Practice Talk | Plant Sciences Room 406 | 9 am | Eddie
 September 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
@@ -24,7 +24,7 @@ December 5th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 December 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 
 ## __Special Lab Events__
-** DATE **|** ACTIVITY **|** LOCATION **|** TIME **|** HOST **
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **HOST**
 :-----:|:-----:|:-----:|:-----:|:-----:
 September 10th | Eddie's Plant Path Seminar Talk | Keim ? | 4 pm | Eddie
 October 29th | Timothy's MS Defense | Beadle N263 | Noon to 3 pm | Timothy
@@ -38,8 +38,8 @@ We're hosting another speaker on December 4th to 6th - more information TBA.
 
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
-* Thais - 1 to 2 pm Tuesdays?
-* Ashley - 2 to 3 pm Tuesdays?
-* Erin - 3 to 4 Tuesdays or anytime Friday (if that's your East Campus day)?
-* Eddie - Wednesday 1 to 2 pm or anytime Friday?
+* **Thais - 1 to 2 pm Tuesdays?**
+* **Ashley - 2 to 3 pm Tuesdays?**
+* **Erin - Sometime Wednesday Afternoon?**
+* **Eddie - Wednesday 1 to 2 pm or anytime Friday?**
 * Timothy - 9 to 10 am Thursdays
