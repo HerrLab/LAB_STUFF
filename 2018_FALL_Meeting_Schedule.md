@@ -8,10 +8,10 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 :-----:|:-----:|:-----:|:-----:|:-----:
 September 5th | Lab Meeting - Practice Talk | Plant Sciences Room 406 | 9 am | Eddie
 September 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
-September 19th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
+September 19th | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
 September 26th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 3rd | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
-October 10th | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
+October 10th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 17th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 24th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 Ocotber 26th (Note Date!) | Timothy's Practice Defense Talk | TBD | TBD | Timothy
