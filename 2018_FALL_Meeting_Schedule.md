@@ -17,7 +17,7 @@ October 24th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 Ocotber 26th (Note Date!) | Timothy's Practice Defense Talk | TBD | TBD | Timothy
 Ocotber 31st | Boo | Plant Sciences Room 406 | 9 am | PERSON
 November 7th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
-November 14th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
+November 14th | Lab Meeting | Plant Sciences Room 406 | 9 am | Eddie
 November 21st | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
 November 28th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 December 5th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
@@ -41,5 +41,5 @@ We can meet in my office in 422 Plant Science Hall unless you would like to meet
 * Thais - Tuesdays 1 to 2 pm
 * **Ashley - 2 to 3 pm Tuesdays?**
 * Erin - Wednesdays 2 to 3 pm
-* **Eddie - Wednesday 1 to 2 pm or anytime Friday?**
+* Eddie - Friday 1 to 2 pm
 * Timothy - Thursdays 9 to 10 am
