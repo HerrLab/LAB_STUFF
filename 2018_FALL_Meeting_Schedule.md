@@ -15,11 +15,11 @@ October 10th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 17th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 24th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 Ocotber 26th (Note Date!) | Timothy's Practice Defense Talk | TBD | TBD | Timothy
-Ocotber 31st | Boo | Plant Sciences Room 406 | 9 am | PERSON
+Ocotber 31st | Boo | Plant Sciences Room 406 | 9 am | Josh
 November 7th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 November 14th | Lab Meeting | Plant Sciences Room 406 | 9 am | Eddie
 November 21st | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
-November 28th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
+November 28th | Lab Meeting | Plant Sciences Room 406 | 9 am | Josh
 December 5th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 December 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 
