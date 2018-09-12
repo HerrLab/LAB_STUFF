@@ -6,8 +6,8 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
-September 5th | Lab Meeting - Practice Talk | Plant Sciences Room 406 | 9 am | Eddie
-September 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
+~~September 5th~~ | ~~Lab Meeting - Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Eddie~~
+~~September 12th~~ | ~~NO Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~PERSON~~
 September 19th | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
 September 26th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 October 3rd | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
@@ -26,7 +26,7 @@ December 12th | Lab Meeting | Plant Sciences Room 406 | 9 am | PERSON
 ## __Special Lab Events__
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **HOST**
 :-----:|:-----:|:-----:|:-----:|:-----:
-September 10th | Eddie's Plant Path Seminar Talk | Keim ? | 4 pm | Eddie
+~~September 10th~~ | ~~Eddie's Plant Path Seminar Talk~~ | ~~Keim~~ | ~~4 pm~~ | ~~Eddie~~
 October 29th | Timothy's MS Defense | Beadle N263 | Noon to 3 pm | Timothy
 November 23rd | Thanksgiving Party | Josh's House | TBA | Josh
 
@@ -39,7 +39,7 @@ We're hosting another speaker on December 4th to 6th - more information TBA.
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
 * Thais - Tuesdays 1 to 2 pm
-* **Ashley - 2 to 3 pm Tuesdays?**
+* Ashley - Tuesdays 2 to 3 pm
 * Erin - Wednesdays 2 to 3 pm
 * Eddie - Friday 1 to 2 pm
 * Timothy - Thursdays 9 to 10 am
