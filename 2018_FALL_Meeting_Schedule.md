@@ -10,9 +10,9 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 ~~September 12th~~ | ~~NO Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Everyone~~
 ~~September 19th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Thais~~
 ~~September 26th~~ | ~~Lab Breakfast~~ | ~~Cultiva Coffee~~ | ~~9:30 am~~ | ~~Larry York Visit~~
-October 3rd | Lab Meeting | Plant Sciences Room 406 | 9 am | Erin
-October 10th | Lab Meeting - Poster Review! | Plant Sciences Room 406 | 9 am | Everyone
-October 17th | NO LAB MEETING | NRIC Microbiome Conference | ALL DAY | EVERYONE
+~~October 3rd~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Erin~~
+~~October 10th~~ | ~~Lab Meeting - Poster Review!~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Everyone~~
+~~October 17th~~ | ~~NO LAB MEETING~~ | ~~NRIC Microbiome Conference~~ | ~~ALL DAY~~ | ~~EVERYONE~~
 October 24th | Lab Meeting | Plant Sciences Room 406 | 9 am | Ashley
 October 26th (Note Date!) | Timothy's Practice Defense Talk | TBD | TBD | Timothy
 October 31st | Boo | Plant Sciences Room 406 | 9 am | Josh
@@ -38,7 +38,7 @@ TBD | Metagenome Analysis Hackathon | TBD | TBD | Everyone
 
 ## __Special Lab Events__
 
-On September 25th to 27th we're hosting Dr. Larry York from the Noble Foundation for biotechnology seminar. We will set up specific meetings with students for lunch!
+~~On September 25th to 27th we're hosting Dr. Larry York from the Noble Foundation for biotechnology seminar. We will set up specific meetings with students for lunch!~~
 
 We're hosting another speaker on December 4th to 6th - more information TBA.
 
