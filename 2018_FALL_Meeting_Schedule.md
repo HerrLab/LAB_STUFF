@@ -13,9 +13,9 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 ~~October 3rd~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Erin~~
 ~~October 10th~~ | ~~Lab Meeting - Poster Review!~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Everyone~~
 ~~October 17th~~ | ~~NO LAB MEETING~~ | ~~NRIC Microbiome Conference~~ | ~~ALL DAY~~ | ~~EVERYONE~~
-October 24th | Lab Meeting | Plant Sciences Room 406 | 9 am | Ashley
-October 26th (Note Date!) | Timothy's Practice Defense Talk | TBD | TBD | Timothy
-October 31st | Boo | Plant Sciences Room 406 | 9 am | Josh
+~~October 24th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Ashley~~
+~~October 26th (Note Date!)~~ | ~~Timothy's Practice Defense Talk~~ | ~~TBD~~ | ~~TBD~~ | ~~Timothy~~
+~~October 31st~~ | ~~Boo~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Josh~~
 November 7th | Lab Meeting | Plant Sciences Room 406 | 9 am | Erin
 November 14th | Lab Meeting | Plant Sciences Room 406 | 9 am | Eddie
 November 21st | Lab Meeting | Plant Sciences Room 406 | 9 am | Thais
@@ -45,7 +45,7 @@ We're hosting another speaker on December 4th to 6th - more information TBA.
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **HOST**
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~September 10th~~ | ~~Eddie's Plant Path Seminar Talk~~ | ~~Keim~~ | ~~4 pm~~ | ~~Eddie~~
-October 29th | Timothy's MS Defense | Beadle N263 | Noon to 3 pm | Timothy
+~~October 29th~~ | ~~Timothy's MS Defense~~ | ~~Beadle N263~~ | ~~Noon to 3 pm~~ | ~~Timothy~~
 November 23rd | Thanksgiving Party | Josh's House | TBA | Josh
 
 
