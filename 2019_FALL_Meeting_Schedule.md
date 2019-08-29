@@ -7,6 +7,22 @@ __Lab meeting: TBA, PLANT SCIENCES ROOM 406 (Plant Pathology Department Conferen
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+TBA | TBA | TBA | TBA | TBA
+
+
+## Dates reflecting posible schedule changes
+* September 2 (Mon.)	Labor Day (Student and Staff Holiday-UNL offices closed)
+* October 21 - 22 (Mon. - Tue.) 	Fall Semester Break (Student Holiday - UNL offices open)
+* November 27 (Wed.) 	Student Holiday (UNL offices open)
+* November 28 – December 1 (Thu. - Sun.) 	Thanksgiving Vacation (UNL offices closed)
 
 
 ## __LAB HACKATHONS__
@@ -35,7 +51,7 @@ TBA | TBA | TBD | TBD | TBA
 We can meet in my office in 422 Plant Science Hall unless you would like to meet elsewhere. 
 
 * Rachel - 
-* Thais - 
+* Thais - Zoom meeting every other Wednesday from 3 to 4 starting August 28th.
 * Ashley - 
 * Erin - 
 * Seth -
