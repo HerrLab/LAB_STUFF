@@ -8,11 +8,11 @@
 | Josh needs a Printer Cartridge | Don't know model | 1 |
 | Dremel tool | find the right one |
 | RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | DONE, Karen took them need to order MORE for Thais 5/9/18 |
-| Difco Nutrient Broth - Thais | - | DONE 5/16/18 |
-| Nalidixic Acid - Thais | Sigma N8878-25G | DONE 5/16/18 |
-| Cycloheximide - Thais | Sigma C7698-5G | DONE 5/16/18 |
-| Polymyxin B sulfate - Thais | Sigma PHR1595-500MG | DONE 5/16/18| 
-| Bravo Fungicide - Thais | - | DONE 5/16/18 |
+| ~~Difco Nutrient Broth - Thais~~ | ~~-~~ | ~~DONE 5/16/18~~ |
+| ~~Nalidixic Acid - Thais~~ | ~~Sigma N8878-25G~~ | ~~DONE 5/16/18~~ |
+| ~~Cycloheximide - Thais~~ | ~~Sigma C7698-5G~~ | ~~DONE 5/16/18~~ |
+| ~~Polymyxin B sulfate - Thais~~ | ~~Sigma PHR1595-500MG~~ | ~~DONE 5/16/18~~ | 
+| ~~Bravo Fungicide - Thais~~ | ~~-~~ | ~~DONE 5/16/18~~ |
 | Adhesive Plate Seal - Thais | in Riekhof's Lab | 
 | RNeasy Plant Mini Kit - Thais | Cat No./ID: 74904 RNeasy Plant Mini Kit (50) | 3 kits ordered May 31st |
 | Microbank cryovials - Thais | Cat No. PL.170/G http://www.pro-lab.com/products/clinical-microbiology/bacteriology/microbank/ | 1 box ordered May 31st |
