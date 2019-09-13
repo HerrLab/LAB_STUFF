@@ -6,23 +6,33 @@ __Lab meeting: TBA, PLANT SCIENCES ROOM 406 (Plant Pathology Department Conferen
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
-TBA | TBA | TBA | TBA | TBA
+September 6th | TBA | TBA | TBA | TBA
+September 20th | TBA | TBA | TBA | TBA
+October 4th | TBA | TBA | TBA | TBA
+October 18th | TBA | TBA | TBA | TBA
+November 1st | TBA | TBA | TBA | TBA
+November 15th | TBA | TBA | TBA | TBA
+December 13th | TBA | TBA | TBA | TBA
+
+
+## __MANAGED ECOSYSTEM WORKING GROUP MEETING__
+
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
+:-----:|:-----:|:-----:|:-----:|:-----:
+September 13th | TBA | TBA | TBA | TBA
+September 27th | TBA | TBA | TBA | TBA
+October 11th | TBA | TBA | TBA | TBA
+October 25th | TBA | TBA | TBA | TBA
+November 8th | TBA | TBA | TBA | TBA
+November 22nd | TBA | TBA | TBA | TBA
+December 6th | TBA | TBA | TBA | TBA
 
 
 ## Dates reflecting posible schedule changes
-* September 2 (Mon.)	Labor Day (Student and Staff Holiday-UNL offices closed)
-* October 21 - 22 (Mon. - Tue.) 	Fall Semester Break (Student Holiday - UNL offices open)
-* November 27 (Wed.) 	Student Holiday (UNL offices open)
-* November 28 – December 1 (Thu. - Sun.) 	Thanksgiving Vacation (UNL offices closed)
+~~* September 2nd - Labor Day (Student and Staff Holiday-UNL offices closed)~~
+* October 21st & 22nd  - Fall Semester Break (Student Holiday - UNL offices open)
+* November 27th - Student Holiday (UNL offices open)
+* November 28 to December 1 - Thanksgiving Vacation (UNL offices closed)
 
 
 ## __LAB HACKATHONS__
