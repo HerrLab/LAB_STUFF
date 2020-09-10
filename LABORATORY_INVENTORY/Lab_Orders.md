@@ -1,10 +1,11 @@
-# Lab Orders
+# Lab Orders - Updated September 10th, 2020
 
 ##  If you have an item you need ordered for the lab please list it here:
 
 | __**ITEM NAME**__ | __**WHERE TO ORDER**__ | __**ITEM ORDER NUMBER**__ | __**NUMBER OF ITEMS TO BE ORDERED**__ |
 | :--------: | :----------------: | :-----------------------: | :--------------: |
 |  **Example: Primers**  |  **primer store**  |  **not sure item number**  |  **4**  |
+| Fully skirted plates for sequencing | | |
 | | | |
 | | | |
 
@@ -27,10 +28,9 @@
 
 ## Notes:
 
-2019-09-13 - How many RNA extraction kits should we order?
-
 ## DO WE NEED THIS STUFF?
 
+- COVID-19 protective gear? Face shields? gloves?
 - Dremel Tool
 - Sprayers (for ethanol 70%) - DONE
 - 200uL and 1000uL Tips with filter
@@ -42,6 +42,7 @@
 - autoclave jars for tubes
 - drill for pestle grinding
 - fancy scales
+- more RNA extraction kits in 2020 and 2021?
 
 ### OLDER THINGS WE MIGHT NEED
 
